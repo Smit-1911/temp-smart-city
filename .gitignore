@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.env*
+__pycache__
+*.pyc
+venv
+.backend_venv
+artifacts
